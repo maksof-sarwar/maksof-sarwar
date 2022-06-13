@@ -18,7 +18,10 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 ![Python]( 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ### Tools :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/gitlab-%23F05033.svg?style=for-the-badge&logo=gitLab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%23007acc.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232392e6.svg?style=for-the-badge&logo=docker&logoColor=white)
 	
 ### Databases :
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
