@@ -15,7 +15,7 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 ![Angular](https://img.shields.io/badge/Angular-%2320232a?style=for-the-badge&logo=Angular&logoColor=red) ![Next JS](https://img.shields.io/badge/NextJS-%2320232a?style=for-the-badge&logo=Next&logoColor=red) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ### Back-end : 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python]( 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python]( 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Solidiy]( 	https://img.shields.io/badge/Solidity-cfcfcf?style=for-the-badge&logo=Solidity&logoColor=black)
 ### Tools :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/gitlab-%23F05033.svg?style=for-the-badge&logo=gitLab&logoColor=white)
