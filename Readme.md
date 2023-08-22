@@ -25,7 +25,7 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 
   
 
-- 💬 Ask me about anything from **Javascript & Python**
+- 💬 Ask me anything about **Javascript & Python**
 
   
 
