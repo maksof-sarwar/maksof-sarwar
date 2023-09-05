@@ -1,5 +1,5 @@
 
-<h1  align="center">Hi 👋, I'm Muhammad Sarwar</h1>
+<h1  align="center">Hi 👋, I'm Muhammad Sarwar Ali</h1>
 
 I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtube, playing games and learning new technologies.
 
