@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/maksof-sarwar/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+  // <img src="https://raw.githubusercontent.com/gist/maksof-sarwar/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
 </div>
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=maksof-sarwar&icon=3&color=6)](https://github.com/maksof-sarwar)
+  // [![](https://visitcount.itsvg.in/api?id=maksof-sarwar&icon=3&color=6)](https://github.com/maksof-sarwar)
   &nbsp;
   <a href="https://github.com/maksof-sarwar?tab=followers">
     <img src="https://img.shields.io/github/followers/maksof-sarwar?style=social" alt="Followers" />
@@ -159,7 +159,7 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
       <a href="https://github.com/maksof-sarwar">
     <img  align="center" height="250" width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-sarwar&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD"  alt="maksof-sarwar"  />
   </a>
-  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=maksof-sarwar&theme=aura&row=1&column=8&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"   alt="maksof-sarwar" /></a>
+  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=maksof-sarwar&theme=aura&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"   alt="maksof-sarwar" /></a>
 </div>
 
 <div>
@@ -173,7 +173,7 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 </div>
 
 <div>
-  <img src="https://github.com/maksof-sarwar/maksof-sarwar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/maksof-sarwar/maksof-sarwar/blob/main/contribution.svg" alt="snake"></center>
 </div>
 
 ---
