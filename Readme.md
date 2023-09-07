@@ -166,7 +166,7 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 
 ## &nbsp;Lets Talk
 
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Sarwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarwar-649714185/)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Sarwar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarwar-ali/)
 [![Mail Badge](https://img.shields.io/badge/-Muhammad%20Sarwar-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)](https://web.facebook.com/muhammadsarwar109/)
 [![Mail Badge](https://img.shields.io/badge/-Muhammad%20Sarwar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rrsarwar109@gmail.com)
 
@@ -180,4 +180,3 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 
 Credits: [maksof-sarwar](https://github.com/maksof-sarwar)
 
-Last Edited on: 26/05/2022
