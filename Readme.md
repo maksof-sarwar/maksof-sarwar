@@ -181,3 +181,10 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
   
 
 <p  align="cente">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=maksof-sarwar&theme=aura"  alt="maksof-sarwar"  /></a>  </p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=maksof-sarwar&icon=3&color=6)](https://github.com/maksof-sarwar)
+  
+</div>
