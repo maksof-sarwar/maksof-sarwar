@@ -12,8 +12,6 @@
 
 <div>
 
-## &nbsp;Maksof Sarwar
-
 I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtube, playing games and learning new technologies.
 
 <br>
