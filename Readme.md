@@ -12,7 +12,7 @@
 
 <div>
 
-I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtube, playing games and learning new technologies.
+I'm Muhammad Sarwar a Full Stack Web Designer . I spend my time watching youtube, playing games and learning new technologies.
 
 <br>
 
