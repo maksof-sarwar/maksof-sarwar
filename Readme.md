@@ -178,4 +178,4 @@ I'm Muhammad Sarwar a Full Stack Web Developer . I spend my time watching youtub
 
 Credits: [maksof-sarwar](https://github.com/maksof-sarwar)
 
-<di style="display: none">https://github.com/ToxicFrog/Ligaturizer/releases</div>
+<div style="display: none">https://github.com/ToxicFrog/Ligaturizer/releases</div>
