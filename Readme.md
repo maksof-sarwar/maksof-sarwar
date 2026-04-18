@@ -167,10 +167,19 @@ The world moved from "AI features" to **AI agents running production workflows**
 </div>
 
 ```
-"The vibe coding era is over.
- What ships in 2026 is agents with guardrails, backends with resilience,
- and products that solve real problems — not impress Twitter."
-                                                    — Muhammad Sarwar
+I don’t optimize for trends — I optimize for systems that survive production.
+
+In 2026, shipping means:
+- agents with constraints, not hallucinations
+- backends that degrade gracefully, not break loudly
+- products that solve real workflow problems, not just look impressive
+
+I care about:
+- reliability over hype
+- clarity over cleverness
+- outcomes over demos
+
+If it doesn’t hold under real users, real data, and real failure — it’s not done.
 ```
 
 - **MCP is infrastructure** — not a buzzword. Treat it like a database connection: connection pooling, error handling, retries.
