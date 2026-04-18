@@ -1,94 +1,201 @@
-# Muhammad Sarwar
-### Full Stack Engineer · Agentic AI Systems · Backend Infrastructure · Growth Tooling
+<div align="center">
 
-I build production systems that work — not prototypes, not demos. Currently engineering at **[Maksof](https://maksof.com/)** and building data infrastructure for **[Scalelist](https://scalelist.com/)**, a B2B lead generation and sales automation platform.
+```
+          _______  _        _______  _______  _______  _______ 
+|\     /|(  ____ \( \      (  ____ \(  ___  )(       )(  ____ \
+| )   ( || (    \/| (      | (    \/| (   ) || () () || (    \/
+| | _ | || (__    | |      | |      | |   | || || || || (__    
+| |( )| ||  __)   | |      | |      | |   | || |(_)| ||  __)  
+| || || || (      | |      | |      | |   | || |   | || (      
+| () () || (____/\| (____/\| (____/\| (___) || )   ( || (____/\
+(_______)(_______/(_______/(_______/(_______)|/     \|(_______/
 
-In **2026**, the shift is clear: software isn't just executed, it's reasoned over. I build systems where AI agents don't just answer questions — they take actions, call tools, manage state, and operate autonomously in production workflows.
+```
 
-I operate at the intersection of engineering and business: I write the code, understand the product, and know why it needs to ship.
+### `< Full Stack Engineer />` `< Agentic AI Builder />` `< Systems Thinker />`
 
----
+<br>
 
-## What I Actually Do
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+production+systems%2C+not+demos.;Agentic+AI+%7C+MCP+%7C+Claude+%7C+Backend+APIs;Engineering+at+Maksof+%C2%B7+Scalelist;Real+systems.+Real+scale.+Real+outcomes.)](https://git.io/typing-svg)
 
-- **Agentic AI systems** — Building multi-step AI pipelines using Claude (Anthropic), tool use, and MCP (Model Context Protocol). Agents that don't just generate text — they browse, write files, call APIs, and complete tasks end-to-end.
-- **LLM integration & orchestration** — Integrating Claude, GPT-4, and open-weight models into real product flows. Prompt engineering, structured outputs, function/tool calling, and managing context windows at scale.
-- **Backend API design** — RESTful and event-driven architectures with Node.js and TypeScript. Built for maintainability, not just to pass tests.
-- **Full-stack product development** — End-to-end ownership: schema design → API layer → frontend integration. Next.js where it makes sense, not because it's trendy.
-- **Sales & lead automation** — At Scalelist, pipelines that extract, enrich, and deliver B2B lead data at volume. Real database design, rate-limiting, queuing, and fault tolerance.
-- **Workflow automation** — Replacing manual operations with scripted pipelines, scheduled jobs, and AI-augmented processes that run unattended in production.
+<br>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=maksof-sarwar&color=a855f7&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/maksof-sarwar?style=flat-square&color=a855f7&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/maksof-sarwar)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0e76a8?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-sarwar-ali/)
 
-## Selected Capabilities
-
-| Area | What I've built |
-|---|---|
-| **Agentic AI Pipelines** | Multi-step agents using Claude tool use + MCP servers — agents that read docs, query databases, and complete workflows autonomously |
-| **LLM-Powered Automation** | AI-augmented lead enrichment, content generation, and classification pipelines replacing manual analyst work |
-| **Lead Generation Systems** | Scrapers, enrichment APIs, and delivery pipelines processing thousands of B2B records with deduplication and retry logic |
-| **Multi-tenant SaaS Backends** | Role-based access, subscription logic, usage metering — built to onboard real paying customers |
-| **Internal AI Tooling** | Chat interfaces, AI copilots, and smart dashboards wired into real business data — not toy demos |
-| **Third-party Integrations** | LLM APIs, CRMs, payment gateways, OAuth flows — integrations that handle failure gracefully |
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
 
-**AI & Agents**
-`Claude (Anthropic)` · `MCP (Model Context Protocol)` · `Anthropic SDK` · `OpenAI API` · `Tool Use / Function Calling` · `RAG` · `LangChain` · `Structured Outputs`
+## ⚡ Who I Am
 
-**Languages**
-`TypeScript` · `JavaScript` · `PHP` · `Java`
+</div>
 
-**Backend**
-`Node.js` · `Express` · `REST APIs` · `WebSockets` · `Queue Systems`
+```ts
+const muhammad = {
+  role:      "Full Stack Engineer + Agentic AI Builder",
+  location:  "Karachi, Pakistan 🇵🇰",
+  working:   ["Maksof", "Scalelist"],
+  focus:     ["Agentic AI", "MCP Systems", "Backend APIs", "Growth Infrastructure"],
+  currently: "Building autonomous AI agents that don't just talk — they act.",
+  belief:    "AI without reliable infrastructure is just a demo. I build the infrastructure.",
+  contact:   ["rrsarwar109@gmail.com","sarwar@scalelist.com"],
+};
+```
 
-**Frontend**
-`Next.js` · `Svelte` · `Vue.js` · `HTML/CSS`
-
-**Data**
-`MongoDB` · `MySQL` · `Firebase` · `Vector DBs`
-
-**Infrastructure & Tooling**
-`Google Cloud` · `Heroku` · `Git` · `Docker` · `Webpack`
-
-**Mobile**
-`Flutter` · `Android`
+> *In 2026, the engineers who matter aren't just writing code — they're orchestrating intelligence.*
+> *I build systems where Claude, tools, and backends work together without a human in the loop.*
 
 ---
 
-## On Agentic AI (2026 Context)
+<div align="center">
 
-The "vibe coding" era is over. What matters now is building agents that are **reliable, observable, and useful in production** — not just impressive in a demo.
+## 🤖 Agentic AI — What I Actually Build
 
-My approach:
-- Agents need **tool boundaries** — they should know what they can and can't do
-- Every agentic workflow needs **fallback logic** — LLMs fail, APIs fail, handle it
-- **MCP is infrastructure**, not a buzzword — treat it like you'd treat a database connection
-- Structured outputs over free-form text wherever the downstream system needs to parse it
-- Human-in-the-loop where stakes are high; fully autonomous where they aren't
+</div>
 
-I'm not building chatbots. I'm building systems where AI is one reliable component in a larger, dependable architecture.
+The world moved from "AI features" to **AI agents running production workflows**. Here's where I operate:
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    AGENTIC SYSTEM ARCHITECTURE                  │
+├─────────────┬──────────────────┬──────────────┬────────────────┤
+│  LLM Layer  │   Tool / MCP     │  Orchestration│   Backend      │
+│             │   Layer          │  Layer        │   Systems      │
+├─────────────┼──────────────────┼──────────────┼────────────────┤
+│ Claude      │ MCP Servers      │ Multi-step   │ Node.js APIs   │
+│ Anthropic   │ Tool Use         │ Agent Loops  │ MongoDB        │
+│ Structured  │ Function Calling │ State Mgmt   │ Queue Systems  │
+│ Outputs     │ RAG Pipelines    │ Error Recov. │ Webhooks       │
+└─────────────┴──────────────────┴──────────────┴────────────────┘
+```
+
+**What my agents actually do:**
+- 🔍 **Research & Enrich** — Browse, extract, classify, and store B2B data without human intervention
+- 🔧 **Act on Systems** — Call APIs, write to databases, trigger workflows based on reasoning
+- 📊 **Report & Summarize** — Generate structured reports from raw data, delivered on schedule
+- 🔄 **Self-recover** — Retry on failure, log anomalies, escalate when confidence is low
+
+> I don't build chatbots. I build **systems where AI is a reliable worker**, not a demo feature.
 
 ---
 
-## GitHub Activity
+<div align="center">
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maksof-sarwar&show_icons=true&theme=aura&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=maksof-sarwar&layout=compact&theme=aura&hide_border=true" />
-</p>
+## 🛠️ What I Do Across The Stack
+
+</div>
+
+| Domain | Details |
+|--------|---------|
+| 🤖 **Agentic AI Pipelines** | Multi-step Claude agents with MCP tool integration — autonomous, stateful, production-grade |
+| 🧠 **LLM Orchestration** | Tool calling, structured outputs, context management, RAG — real flows, not toy prompts |
+| ⚙️ **Backend Engineering** | Node.js + TypeScript APIs, event-driven systems, authentication, rate limiting at scale |
+| 🚀 **Full-Stack Products** | Schema → API → UI, end-to-end. Next.js, Svelte — chosen for the job, not the hype |
+| 📈 **Sales & Growth Systems** | At Scalelist: B2B lead pipelines processing thousands of records with enrichment + delivery |
+| 🔗 **Systems Integration** | LLM APIs, CRMs, payment gateways, webhooks — built to fail gracefully, not silently |
 
 ---
 
-## Let's Talk
+<div align="center">
 
-Open to engineering roles, consulting, and technical collaborations — especially agentic AI systems, backend infrastructure, and growth tooling.
+## 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Sarwar-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarwar-ali/)
-[![Email](https://img.shields.io/badge/Email-sarwar@scalelist.com-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:sarwar@scalelist.com)
+</div>
+
+<div align="center">
+
+**🤖 AI & Agentic Layer**
+
+![Claude](https://img.shields.io/badge/Claude_Anthropic-6C3483?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-a855f7?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0f172a?style=for-the-badge&logoColor=white)
+
+**⚙️ Backend & Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**🎨 Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**🗄️ Data**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector_DBs-6366f1?style=for-the-badge&logoColor=white)
+
+**☁️ Infrastructure**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-*Building at [Maksof](https://maksof.com/) · Software Engineer at [Scalelist](https://scalelist.com/) · Agentic systems in production*
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=maksof-sarwar&show_icons=true&theme=aura&hide_border=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=maksof-sarwar&layout=compact&theme=aura&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+
+<img width="720" src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-sarwar&theme=aura&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧭 My Engineering Philosophy in 2026
+
+</div>
+
+```
+"The vibe coding era is over.
+ What ships in 2026 is agents with guardrails, backends with resilience,
+ and products that solve real problems — not impress Twitter."
+                                                    — Muhammad Sarwar
+```
+
+- **MCP is infrastructure** — not a buzzword. Treat it like a database connection: connection pooling, error handling, retries.
+- **Agents need boundaries** — explicit tool scopes, confidence thresholds, human escalation paths
+- **Structured outputs always** — if downstream code parses it, it must be typed, not hoped
+- **Observability first** — if you can't see what your agent did, you don't have a system, you have a prayer
+- **Business context matters** — I've worked sales (Scalelist) and engineering (Maksof). I know what "done" means from both sides.
+
+---
+
+<div align="center">
+
+## 📬 Let's Build Something
+
+*Open to engineering roles, AI consulting, and technical partnerships.*
+*Especially interested where agentic systems, backend infra, and growth tooling intersect.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Sarwar-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarwar-ali/)
+[![Gmail](https://img.shields.io/badge/Email-sarwar@scalelist.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarwar@scalelist.com)
+
+<br>
+
+---
+
+*⚡ Engineering at **[Maksof](https://maksof.com/)** · Software Engineer at **[Scalelist](https://scalelist.com/)** · Agentic AI in production · Based in Karachi 🇵🇰*
+
+</div>
